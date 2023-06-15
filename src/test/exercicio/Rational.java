@@ -1,7 +1,4 @@
-package test;
-
-import java.text.DecimalFormat;
-import java.text.NumberFormat;
+package test.exercicio;
 
 public class Rational {
 
